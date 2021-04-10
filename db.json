@@ -1,0 +1,90 @@
+{
+  "coupons": [
+    {"id":1,
+      "code": "qwer1234",
+      "isValid": true,
+      "url":"https://www.amazon.in/gp/browse.html?node=6648217031&ref_=nav_cs_fashion_ad6f81eb5d474066bc9e5788a3c19a28",
+      "offer":"Discount offer on purchase of this clothes",
+      "discount":500,
+      "category":"Mobiles",
+      "offerImage":"https://5.imimg.com/data5/KN/BC/MY-38775457/oppo-f9-pro-28sunrise-red-2c-6gb-64gb-29-with-offers-mobile-phone-500x500.png"
+    },
+    {
+      "id":2,
+      "code": "qwer1235",
+      "isValid": true,
+      "url":"https://www.amazon.in/gp/browse.html?node=6648217031&ref_=nav_cs_fashion_ad6f81eb5d474066bc9e5788a3c19a28",
+      "offer":"Discount offer on purchase of this clothes",
+      "discount":500,
+      "category":"Mobiles",
+      "offerImage":"https://5.imimg.com/data5/KN/BC/MY-38775457/oppo-f9-pro-28sunrise-red-2c-6gb-64gb-29-with-offers-mobile-phone-500x500.png"
+
+    },
+    {
+      "id":3,
+      "code": "qwer1236",
+      "isValid": true,
+      "url":"https://www.amazon.in/gp/browse.html?node=6648217031&ref_=nav_cs_fashion_ad6f81eb5d474066bc9e5788a3c19a28",
+      "offer":"Discount offer on purchase of this clothes",
+      "discount":500,
+      "category":"Mobiles",
+      "offerImage":"https://5.imimg.com/data5/KN/BC/MY-38775457/oppo-f9-pro-28sunrise-red-2c-6gb-64gb-29-with-offers-mobile-phone-500x500.png"
+    },
+    {
+      "id":4,
+      "code": "qwer1237h",
+      "isValid": true,
+      "url":"https://www.amazon.in/gp/browse.html?node=6648217031&ref_=nav_cs_fashion_ad6f81eb5d474066bc9e5788a3c19a28",
+      "offer":"Discount offer on purchase of this clothes",
+      "discount":500,
+      "category":"Clothings",
+      "offerImage":"https://d168jcr2cillca.cloudfront.net/uploadimages/sales_offer_mainpic_20100119171953Ritu-wear.png"
+    },
+    {
+      "id":5,
+      "code": "qwer123566",
+      "isValid": true,
+      "url":"https://www.amazon.in/gp/browse.html?node=6648217031&ref_=nav_cs_fashion_ad6f81eb5d474066bc9e5788a3c19a28",
+      "offer":"Discount offer on purchase of this clothes",
+      "discount":400,
+      "category":"Clothing",
+      "offerImage":"https://d168jcr2cillca.cloudfront.net/uploadimages/sales_offer_mainpic_20100119171953Ritu-wear.png"
+    },
+    {
+      "id":6,
+      "code": "qwer1235sdfdg",
+      "isValid": true,
+      "url":"https://www.amazon.in/gp/browse.html?node=6648217031&ref_=nav_cs_fashion_ad6f81eb5d474066bc9e5788a3c19a28",
+      "offer":"Discount offer on purchase of this clothes",
+      "discount":900,
+      "category":"Clothing",
+      "offerImage":"https://d168jcr2cillca.cloudfront.net/uploadimages/sales_offer_mainpic_20100119171953Ritu-wear.png"
+    },
+    {
+      "id":7,
+      "code": "qwer1235rtbd",
+      "isValid": true,
+      "url":"https://www.amazon.in/gp/browse.html?node=6648217031&ref_=nav_cs_fashion_ad6f81eb5d474066bc9e5788a3c19a28",
+      "offer":"Discount offer on purchase of this clothes",
+      "discount":300,
+      "category":"Electronics",
+      "offerImage":"http://qatar.twffer.com/uploads/offers_attachments/og/207e4d67-5b1a-482b-9500-5001ef2aac50.jpg"
+    },
+    {
+      "id":8,
+      "code": "qwer1235825sdfsf",
+      "isValid": true,
+      "url":"https://www.amazon.in/gp/browse.html?node=6648217031&ref_=nav_cs_fashion_ad6f81eb5d474066bc9e5788a3c19a28",
+      "offer":"Discount offer on purchase of this clothes",
+      "discount":400,
+      "category":"Electronics",
+      "offerImage":"http://qatar.twffer.com/uploads/offers_attachments/og/207e4d67-5b1a-482b-9500-5001ef2aac50.jpg"
+    }
+  ],
+  "users":[
+    {"username":"singh.harinder45gmail.com",
+    "password":"Harry1234"},
+    {"username":"kishan@gmail.com",
+    "password":"Kishan@1234"}
+  ]
+}
